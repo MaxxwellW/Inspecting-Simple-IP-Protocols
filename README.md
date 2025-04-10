@@ -3,9 +3,10 @@
 </p>
 <p>
 <h1>Inspecting Network Traffic</h1>
+ <p align="center"> 
 
  <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
- 
+ <p align="center">  
 This tutorial outlines how to install WireShark and use Internet Control Message Protocol through the Application
   https://www.wireshark.org/download.html .<br />
 
